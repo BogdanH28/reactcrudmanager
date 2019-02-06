@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bogdan28h.github.io/react-crud",
+  "homepage": "https://Bogdan28h.github.io/react-crud",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
